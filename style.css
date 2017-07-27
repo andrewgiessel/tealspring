@@ -9,15 +9,13 @@ body {
 	padding: 0;
 	}
 a {
-	color: #EB5779
+	color: #EB5779;
+	text-decoration: none;
+
 }
 
-a:hover, a:active {
-    text-decoration: underline;
-}
-
-a:link {
-    text-decoration: none;
+a:hover, a:focus, a:active {
+    	text-decoration: underline;
 }
 
 h1 {
